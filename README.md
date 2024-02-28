@@ -8,3 +8,8 @@ This repository contains notebooks for various stages of our research project, w
 - complexity_and_similarity.ipynb: Calculates language complexity and similarity metrics for review text and product descriptions to uncover linguistic patterns
 - n_gram_lasso.ipynb: Utilises an n-gram LASSO model to predict ratings based on review text, providing valuable insights into customer sentiment and product performance
 - 
+
+
+
+Link of processed and normalised data: https://drive.google.com/drive/folders/1iABJWKwf3jHczTkWaAGC0amdwKFyXOYH?usp=drive_link
+Link of original data source: https://nijianmo.github.io/amazon/index.html
