@@ -1,6 +1,6 @@
 Textual Analysis of Amazon Review - Research Project - Text Mining for Economics and Finance
 
-This repository contains notebooks for various stages of our research project, which focus on analyse Amazon Review :
+This repository contains notebooks for various stages of our research project, which focus on analyse Amazon Review 
 
 - data_preprocessing.ipynb: Converts raw JSON files to CSV format, removes non-useful columns, and prepares the data for further analysis
 - data_normalisation.ipynb: Implements robust normalisation techniques and removes entities and irrelevant objects from review text to enhance modelling accuracy
