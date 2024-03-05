@@ -17,8 +17,6 @@ Dataset:
 - `review_subset_normalised.csv`: normalised and preprocessed data subset of all electronics products (we have only normalised a subset of the entire electronics product dataset as it is already sufficient for our analysis)
 - Link of preprocessed and normalised data: https://drive.google.com/drive/folders/1iABJWKwf3jHczTkWaAGC0amdwKFyXOYH?usp=drive_link
 
-Original Dataset link:
+Original Dataset:
 - Link of original dataset: https://nijianmo.github.io/amazon/index.html
 
-
-LAST UPDATE: 05-03-2024
