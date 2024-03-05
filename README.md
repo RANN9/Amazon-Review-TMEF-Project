@@ -1,7 +1,7 @@
 # Textual Analysis of Amazon Review - Electronics (Camera & Accessories) 
 ## Research Project of Text Mining for Economics and Finance
 
-This repository contains notebooks for various stages of our research project
+This repository contains notebooks for various stages of our research project: https://github.com/RANN9/Amazon-Review-TMEF-Project
 
 - `data_preprocessing_final.ipynb`: convert raw JSON files to CSV format, remove non-useful columns, and prepare the data for further analysis
 - `data_normalisation_final.ipynb`: implement robust text normalisation techniques and remove entities which could potentially bias our analysis
