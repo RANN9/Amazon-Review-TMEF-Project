@@ -10,6 +10,12 @@ This repository contains notebooks for various stages of our research project
 - `predictive_modelling_final.ipynb`: utilises various models to predict ratings based on review text; discover intertemporal changes in review text
 - `sentiment_variance_final.ipynb`: investigate the variance in review sentiment across different rating levels
 
-Data:
+Dataset:
+- `review.csv`: preprocessed review dataset
+- `product.csv`: preprocessed product dataset
+- `review_camera_normalised.csv`: normalised and preprocessed camera product dataset
+- `review_subset_normalised.csv`: normalised and preprocessed dataset of all electronics products (we have only normalised a subset of the entire electronics dataset as it is sufficient for our analytics)
 - Link of processed and normalised data: https://drive.google.com/drive/folders/1iABJWKwf3jHczTkWaAGC0amdwKFyXOYH?usp=drive_link
+
+Original Dataset link:
 - Link of original dataset: https://nijianmo.github.io/amazon/index.html
