@@ -14,7 +14,7 @@ Dataset:
 - `review.csv`: preprocessed review dataset
 - `product.csv`: preprocessed product dataset
 - `review_camera_normalised.csv`: normalised and preprocessed camera product dataset
-- `review_subset_normalised.csv`: normalised and preprocessed dataset of all electronics products (we have only normalised a subset of the entire electronics dataset as it is sufficient for our analytics)
+- `review_subset_normalised.csv`: normalised and preprocessed data subset of all electronics products (we have only normalised a subset of the entire electronics product dataset as it is already sufficient for our analysis)
 - Link of processed and normalised data: https://drive.google.com/drive/folders/1iABJWKwf3jHczTkWaAGC0amdwKFyXOYH?usp=drive_link
 
 Original Dataset link:
